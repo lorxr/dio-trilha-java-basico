@@ -48,3 +48,12 @@ replay_pid*
 # Arquivos específicos do sistema operacional
 .DS_Store        # Para MacOS
 Thumbs.db         # Para Windows
+/tipos-variaveis/build/
+/sistema-smart-tv/nbproject/private/
+/sistema-smart-tv/build/
+/java-terminal/nbproject/private/
+/java-terminal/build/
+/desafio-banco-terminal/ContaBanco/nbproject/private/
+/desafio-banco-terminal/ContaBanco/build/
+/desafio-controle-fluxo/DesafioControleFluxo/nbproject/private/
+/desafio-controle-fluxo/DesafioControleFluxo/build/
